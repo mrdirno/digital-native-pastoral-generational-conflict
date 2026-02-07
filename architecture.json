@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-pastoral-generational-conflict",
+  "title": "The Signal and the Soil",
+  "tagline": "A digital native inherits a failing farm, forcing a choice between his parents' world of abstract wealth and the tangible, crumbling legacy in his hands.",
+  "target_words": 70000,
+  "actual_words": 69025,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Illusion of Digital Escape",
+    "Tangible vs. Abstract Inheritance",
+    "The Gentrification of Solitude",
+    "Productivity as a Generational Battleground"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Buzzing and the Dirt",
+      "words": 2876
+    },
+    {
+      "ch": 2,
+      "title": "The Phantom Book",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The Cedar-Clad Future",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Cathedral of Decay",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "Ben Crider's Spreadsheet",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "The Dawson's Warning",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "Sabbatical's End",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "The Well Runs Dry",
+      "words": 2750
+    },
+    {
+      "ch": 9,
+      "title": "A Call from the Cousins",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The First Frost",
+      "words": 2800
+    },
+    {
+      "ch": 11,
+      "title": "Vega Rebrand, Remoted",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "Foundations of Stone",
+      "words": 2850
+    },
+    {
+      "ch": 13,
+      "title": "The Offer",
+      "words": 3200
+    },
+    {
+      "ch": 14,
+      "title": "The Great-Uncle's Ledger",
+      "words": 2750
+    },
+    {
+      "ch": 15,
+      "title": "Signal Fire on the Crest",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Barter Economy",
+      "words": 2800
+    },
+    {
+      "ch": 17,
+      "title": "Mother's Site Visit",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "The Storm and the Barn",
+      "words": 3300
+    },
+    {
+      "ch": 19,
+      "title": "Writing in the Ruins",
+      "words": 2850
+    },
+    {
+      "ch": 20,
+      "title": "The Community Meeting",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "Not a Return, a Reckoning",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Last Lamb",
+      "words": 2750
+    },
+    {
+      "ch": 23,
+      "title": "Harvest",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "What Grows From Receipts",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character tries to explain the spiritual value of manual, 'unproductive' labor (like dry-stone walling) to someone who only understands metrics and ROI.",
+      "Create a monologue from the perspective of Finn's great-uncle, explaining in a letter (found later) why he left the farm to the city nephew.",
+      "Draft a 'Community Clubhouse Welcome Packet' for the Silver Creek development, highlighting amenities that ironically destroy the quiet the buyers sought.",
+      "Write an argument between Finn and a local contractor who uses apps and drones for farm management, challenging Finn's romanticized manual methods."
+    ],
+    "technical": [
+      "Build a 'Generational Lexicon' web app that maps and defines charged words from the novel (e.g., Labor, Sabbatical, Node, Receipts, Sustainable) from the conflicting perspectives of different characters.",
+      "Create a 'Signal Map' data visualization that plots Finn's physical movement against his digital connectivity and emotional state throughout the key chapters of the novel."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Wendell Berry",
+      "Donna Haraway",
+      "David Graeber",
+      "Annie Dillard"
+    ]
+  },
+  "cover_prompt": "A young man in a sleek, smart-fabric jacket stands with his back to us, one hand holding a cracked, soil-caked smartphone displaying a crashing financial graph, the other hand pressed flat against the rough, splintering wood of a collapsing barn door, [Detailed Scene & Context: the scene is a generational conflict made physical, set at the precise border between two worlds; inside the dim barn, holographic feeds and data visualizations flicker over rusted farm tools, while outside, a golden-hour light washes over overgrown, untended fields being encroached upon by the distant geometric shapes of data center construction on the horizon], [Artistic Style & Medium: in the atmospheric, textured, and melancholic style of Andrew Wyeth's rural realism combined with the precise, conceptual digital art of Beeple, rendered as a hyper-detailed matte painting], [Composition & Camera: book cover framing, an intimate and centered composition with a dramatic, low-angle shot that emphasizes the weight of the barn door and the vast, conflicted landscape beyond, the subject caught perfectly in the threshold], [Lighting & Color Palette: dramatic chiaroscuro lighting with a stark contrast between the cool, artificial blue glow of the digital screens and the warm, dying amber sunlight of the pastoral world, palette of desaturated earth tones, concrete grey, and electric cyan], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
